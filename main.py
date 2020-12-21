@@ -1,6 +1,4 @@
-#pytanie o imie
-#E = input("Jak masz na imię? ")
-#print("Miło Cię poznać ", E, "Obliczę dla Ciebie pole wybranej przez Ciebie figury płaskiej. Wybierz: ")
+print("Wybierz: ")
 print("A to pole kwadrat")
 print("B to pole prostokąt")
 print("C to pole koło")
