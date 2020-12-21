@@ -1,2 +1,2 @@
 # Figury
-#### TEst
+simple program for counting figure fields
